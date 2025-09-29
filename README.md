@@ -7,7 +7,7 @@ Author:gauri gawade
 
 
 About Me
-I am a Software Developer with 2 years of experience, specializing in Full Stack Development (java).
+I am a Java Full Stack Developer with 3+ years of experience, specializing in Full Stack Development (java).
 
 Passionate about codingand problem-solving
 Hobbies: Drawing, Sketching, Rangoli Art, Traveling, Roof Planting
